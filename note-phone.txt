@@ -1,2 +1,17 @@
-# database holo data rakhar system
-data base e data rakhe
+"""
+ database holo data rakhar system
+ 	- keep
+ 	- manage
+ 	- retricme
+ 	
+ * types of database
+ 	1. relational database
+ 	2. non relational database
+ 	3. graph database
+ 	4. centralize database
+ 	5. cloud database
+ 	6. distribute database
+ 	
+ 	 -> relational e ek data ekadhik jaygay use hoy
+ 	 ->  
+"""
