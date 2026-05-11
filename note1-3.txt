@@ -1,0 +1,13 @@
+"""
+My SQL holo relational database system
+
+-> ekhane data table akare rakha hoy
+
+key word --- table, field, Row, Column
+
+	table -> table er nam
+	column -> field
+	row -> record
+	cell er value -> value
+
+"""
