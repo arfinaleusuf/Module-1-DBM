@@ -1,0 +1,11 @@
+key -- Primary key
+
+Primary key: je feild er data gulu uniqe
+key: je no feild er data
+
+
+KEY:
+    1. Primary key: feild of uniqe value
+    2. Composite Primary key : more than one key use kore ekta uniqe key ney
+    3. foregin key: jodi onno table er Primary key ke onno table e feild hisabe use kori tahole take foregin key bole.
+    
