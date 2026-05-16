@@ -1,0 +1,13 @@
+Relation:
+    1. One to one
+    2. One to Many
+    3. Many to Many
+
+One to one:
+    - ekta row er shathe onno ekta table er ekta row er shomporko ache
+
+One to Many:
+    - ekta table er ekta row er shathe onno ekta table er ekadhik row er Relation ache.
+
+Many to Many:
+    - dui table er je kono row er shathe ekadik row e use korte pare.
