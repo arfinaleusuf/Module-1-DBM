@@ -15,5 +15,8 @@
  	 -> relational e ek data ekadhik jaygay use hoy
  	 -> Non relational e data ek jaoygay use hoy. onno kono table e same data use hoy na.
 	 -> graph database e graph data store kora hoy.
+	 -> centralize database e data centeal e rakha hoy. mane kono user er device e rakha hoy na.
+	 -> cloud database data cloud e rakha hoy.
+	 
 	 
 """
