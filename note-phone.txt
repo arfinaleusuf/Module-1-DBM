@@ -13,5 +13,7 @@
  	6. distribute database
  	
  	 -> relational e ek data ekadhik jaygay use hoy
- 	 ->  
+ 	 -> Non relational e data ek jaoygay use hoy. onno kono table e same data use hoy na.
+	 -> graph database e graph data store kora hoy.
+	 
 """
