@@ -1,0 +1,9 @@
+Database ki?
+    -> Database holo data rakhar system.
+        - Keep
+        - Manage
+        - retricme
+
+Type of database - 
+    1. Relational Database
+    2. 
